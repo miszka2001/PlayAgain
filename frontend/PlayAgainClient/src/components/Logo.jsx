@@ -1,11 +1,11 @@
-import { StyledLogo } from "./styles/Logo.styled"
+import { StyledLogo } from './styles/Logo.styled'
 
 export const Logo = () => {
-    return (
+  return (
     <>
-        <StyledLogo>
-            <img alt="Here should be a logo" />
-        </StyledLogo>
+      <StyledLogo>
+        <img alt='Here should be a logo' />
+      </StyledLogo>
     </>
-    )
+  )
 }
